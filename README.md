@@ -54,7 +54,7 @@ Currently pursuing **B.Tech in Artificial Intelligence and Data Science** at **K
 
 ## 🌍 Connect With Me
 
-* 💼 LinkedIn
+* 💼 LinkedIn https://www.linkedin.com/in/jaiwant-karrun-s-a-93792a327/
 * 💻 GitHub
 * 🌐 Portfolio
 * 📧 [jaisam710@gmail.com](mailto:jaisam710@gmail.com)
